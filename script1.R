@@ -9,3 +9,6 @@ a=1
 b=2
 
 
+attach(Rel_gmdAC)
+
+boxplot(TP_meses)
